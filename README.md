@@ -39,7 +39,8 @@ Then repeats in an infinite loop.
 
 ## 🧠 Circuit Diagram
 
-*(Include a PNG / JPG / Fritzing file if available. You can also describe it in text form here.)*
+![Circuit Diagram](circuit_diagram.png)
+
 
 ## 📜 License
 
@@ -50,4 +51,3 @@ Feel free to modify and reuse it for your own interval photography setups.
 
 tdey48  
 [GitHub Profile](https://github.com/tdey48)
-![Circuit Diagram](circuit_diagram.png)
