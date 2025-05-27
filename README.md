@@ -50,3 +50,4 @@ Feel free to modify and reuse it for your own interval photography setups.
 
 YourName  
 [GitHub Profile](https://github.com/tdey48)
+![Circuit Diagram](circuit_diagram.png)
