@@ -1,4 +1,4 @@
-# SZ-14 Interval Timer Remote with Arduino
+# Olympus RM-UC1 Interval Timer Remote with Arduino
 
 This project demonstrates how to build a simple Arduino-based remote shutter timer for Olympus SZ-14 digital camera. The remote simulates half-press and full-press signals every 5 minutes, using two optocouplers to trigger the shutter circuit.
 
